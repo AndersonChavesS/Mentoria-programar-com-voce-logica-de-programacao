@@ -1,2 +1,2 @@
-# Mentoria_programar_com_voce_logica_de_programacao
+# Mentoria-programar-com-voce-logica-de-programacao
  Pastas com exercícios de lógica de programação
